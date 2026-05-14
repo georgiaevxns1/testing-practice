@@ -8,9 +8,9 @@ A JavaScript unit testing exercise from The Odin Project. The goal is to practic
 
 **reverseString(string)** — Returns the string reversed character by character.
 
-**calculator** — An object with four arithmetic methods: add, subtr, mult, and div, each taking two numbers and returning the result.
+**calculator** — An object with four arithmetic methods: add, subtract, multiply, and divide, each taking two numbers and returning the result.
 
-**encryptWord(word, offset) / decryptWord(word, offset)** — Caesar cipher helpers that shift each letter in a string by the given offset, preserving case and wrapping correctly around the alphabet (z + 1 → a).
+**ceasarCypher(string, shift)** — Caesar cipher helpers that shift each letter in a string by the given offset, preserving case and wrapping correctly around the alphabet (z + 1 → a).
 
 ## Tech Stack
 
